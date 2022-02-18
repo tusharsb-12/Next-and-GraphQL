@@ -3,4 +3,4 @@
 Integrating Graphql API with typescript and NextJS  
 **This is a learning repository**
 
-[Configuration for GraphQL code generation](./client/codegen.yml)
+[Configuration for GraphQL code generation](./app/codegen.yml)
